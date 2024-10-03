@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pm5BUajMV+fYtKhWhB8VyqT7lxSQTBPR/sG1UCUO7mg=",
+  "Hash": "xJ90Bkzl8S6gqrs0D5fmfjEoYvJeG9c1FCl0cicPlOw=",
   "Source": "NiceNice_Shop",
   "BasePath": "_content/NiceNice_Shop",
   "Mode": "Default",
@@ -205,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\wwwroot\\hero-img.jpg",
+      "SourceId": "NiceNice_Shop",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\wwwroot\\",
+      "BasePath": "_content/NiceNice_Shop",
+      "RelativePath": "hero-img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hero-img.jpg"
     },
     {
       "Identity": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\wwwroot\\index.html",

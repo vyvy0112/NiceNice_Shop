@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\do_an1\\NiceNice_Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\data\\niceniceshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\data\\niceniceshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\nicenice_shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\nicenice_shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|d:\\do_an1\\nicenice_shop\\nicenice_shop\\viewcomponent\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3DA0D5-B12E-4C37-87E5-7782EF729C26}|NiceNice_Shop\\NiceNice_Shop.csproj|solutionrelative:nicenice_shop\\viewcomponent\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Program.cs",
-              "RelativeDocumentMoniker": "NiceNice_Shop\\Program.cs",
-              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Program.cs",
-              "RelativeToolTip": "NiceNice_Shop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T13:06:19.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NiceNiceShopContext.cs",
-              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Data\\NiceNiceShopContext.cs",
-              "RelativeDocumentMoniker": "NiceNice_Shop\\Data\\NiceNiceShopContext.cs",
-              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Data\\NiceNiceShopContext.cs",
-              "RelativeToolTip": "NiceNice_Shop\\Data\\NiceNiceShopContext.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAUwCMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T13:04:16.325Z",
+              "Title": "shop.html",
+              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\wwwroot\\shop.html",
+              "RelativeDocumentMoniker": "NiceNice_Shop\\wwwroot\\shop.html",
+              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\wwwroot\\shop.html",
+              "RelativeToolTip": "NiceNice_Shop\\wwwroot\\shop.html",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-03T11:50:29.164Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\appsettings.json",
-              "RelativeDocumentMoniker": "NiceNice_Shop\\appsettings.json",
-              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\appsettings.json",
-              "RelativeToolTip": "NiceNice_Shop\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-01T13:00:46.219Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "NiceNice_Shop\\Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "NiceNice_Shop\\Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAiwKEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T12:20:33.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "NiceNice_Shop\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "NiceNice_Shop\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T11:43:57.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "NiceNice_Shop\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "NiceNice_Shop\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "NiceNice_Shop\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "NiceNice_Shop\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:27:10.504Z",
+              "WhenOpened": "2024-10-03T12:14:34.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "NiceNice_Shop",
-              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\NiceNice_Shop.csproj",
-              "RelativeDocumentMoniker": "NiceNice_Shop\\NiceNice_Shop.csproj",
-              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\NiceNice_Shop.csproj",
-              "RelativeToolTip": "NiceNice_Shop\\NiceNice_Shop.csproj",
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "NiceNice_Shop\\wwwroot\\index.html",
+              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\wwwroot\\index.html",
+              "RelativeToolTip": "NiceNice_Shop\\wwwroot\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-01T12:56:47.726Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-03T12:09:59.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NiceNice_Shop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NiceNice_Shop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwEAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:06:30.51Z",
+              "Title": "MenuLoaiVM.cs",
+              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeDocumentMoniker": "NiceNice_Shop\\ViewModels\\MenuLoaiVM.cs",
+              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeToolTip": "NiceNice_Shop\\ViewModels\\MenuLoaiVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:42:14.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\ViewComponent\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "NiceNice_Shop\\ViewComponent\\MenuLoaiViewComponent.cs",
+              "ToolTip": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\ViewComponent\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "NiceNice_Shop\\ViewComponent\\MenuLoaiViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:37:54.784Z",
               "EditorCaption": ""
             }
           ]

@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\wwwroot\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\hero-img.jpg"
+    },
+    {
       "Id": "D:\\do_an1\\NiceNice_Shop\\NiceNice_Shop\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

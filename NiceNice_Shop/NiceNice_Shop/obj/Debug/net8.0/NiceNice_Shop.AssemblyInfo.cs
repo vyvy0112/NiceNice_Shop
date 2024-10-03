@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NiceNice_Shop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32db1fa1ae91be9ccac5a6c58ef9b694a58b04a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("NiceNice_Shop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NiceNice_Shop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
